@@ -37,7 +37,6 @@
 **🔧 Tech Stack**
 + 💻 Programming Languages: Python, C++, Java (Beginner)
 + 🛠️ Tools & Technologies: Git, MySQL, Arduino
-+ 📊 Data Visualization: Matplotlib, Pandas
 + ⚡ Constantly expanding my tech stack for AI-driven innovation!
   
 
@@ -45,14 +44,18 @@
 + 🥇 Won prizes in inter-college paper presentations and project competitions.
 + 📜 Completed certification courses on IoT and DevOps Tools.
 + 🏅 Diploma in UI Automation and Excel Automation.
-- 🎖️ Always looking for opportunities to showcase innovation.
++ 🎖️ Always looking for opportunities to showcase innovation.
 
   
 **📫 Connect with Me**
+
+
 <a href="https://www.linkedin.com/in/deepika-mahendran-89353b250/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
 </a>
 &nbsp;
+
+
 <a href="mailto:deepikamahendran57@gmail.com" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.svg/512px-Gmail_Icon.svg.png?20221017173631" alt="Gmail" height="30" width="40" />
 </a>
