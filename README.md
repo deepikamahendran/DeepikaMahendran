@@ -8,6 +8,12 @@
 🔧 Committed to solving real-world problems through creative coding!
 
 
+ 
+
+
+📫 Reach me at: dhanush7073@gmail.com
+
+
 ##🔧 Tech Stack
 + 💻 Programming Languages: Python, C++, Java (Beginner)
 + 🛠️ Tools & Technologies: Git, MySQL, Arduino
@@ -23,7 +29,12 @@
 
   
 ##📫 Connect with Me
-+ 🌐 [LinkedIn](https://www.linkedin.com/in/deepika-mahendran-89353b250/)
+<a href="https://www.linkedin.com/in/deepika-mahendran-89353b250/ target="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+&nbsp;
+
+<a href="deepikamahendran57@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aswin_barath_" height="30" width="40" /></a>
+&nbsp;
+
 + ✉️ deepikamahendran57@gmail.com
 
   
