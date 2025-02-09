@@ -1,7 +1,7 @@
 ## 👩‍💻 Hello! I'm Deepika Mahendran
 
 
-## 🧑‍💻 **About Me**  
+## 👩💻 **About Me**  
 🤖 Passionate about IoT and AI Ethics
 📊 Creating data-driven solutions for impactful decision-making
 🚀 Let’s make a difference together through innovation!
