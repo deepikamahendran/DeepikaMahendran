@@ -8,10 +8,6 @@
 🔧 Committed to solving real-world problems through creative coding!
 
 
- 
-
-
-📫 Reach me at: dhanush7073@gmail.com
 
 
 ##🔧 Tech Stack
