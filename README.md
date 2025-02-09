@@ -24,7 +24,6 @@
   
 ##📫 Connect with Me
 + 🌐 [LinkedIn](https://www.linkedin.com/in/deepika-mahendran-89353b250/)
-+ 💻 [GitHub](https://github.com/deepikamahendran)
 + ✉️ deepikamahendran57@gmail.com
 
   
