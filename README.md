@@ -34,7 +34,7 @@
 </p>
 
 **🔧 Tech Stack**
-+ 💻 Programming Languages: Python, C++, Java (Beginner)
++ 💻 Programming Languages: Python, C - Beginner, Java (Intermediate)
 + 🛠️ Tools & Technologies: Git, MySQL, Arduino
 + ⚡ Constantly expanding my tech stack for AI-driven innovation!
   
