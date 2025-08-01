@@ -12,7 +12,7 @@
 💡 Passionate about solving problems through **Data Analytics, Machine Learning, and AI-driven solutions**.  
 
 
-📝 [Resume](https://docs.google.com/document/d/1yjviV94b9wEqbUfx1mM9aUs1TOtztgAA/edit?usp=sharing&ouid=101597741475691955929&rtpof=true&sd=true)  
+📝 [Resume](https://docs.google.com/document/d/1yjviV94b9wEqbUfx1mM9aUs1TOtztgAA/edit?usp=sharing&ouid=101597741475691955929&rtpof=true&sd=true](https://drive.google.com/file/d/1r01c80VpEJhBf4Bs-ZIMNJbk51MwZFkD/view?usp=sharing)  
 
 ---
 
